@@ -26,11 +26,11 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 
 ## **Dashboard**
-![Alt Text]()
+![Alt Text](https://github.com/kumkumsoni111/supply-chain-analysis/blob/main/dashboard.png)
 
 
 
-Some Major Insights
+## **Some Major Insights**
 All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
 On an average, orders are delayed 0.42 days from the agreed date of delivery
 Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
