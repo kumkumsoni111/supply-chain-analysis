@@ -5,7 +5,7 @@ Challenge [Link](https://codebasics.io/challenge/codebasics-resume-project-chall
 
 Live Dashboard [Link](https://github.com/kumkumsoni111/supply-chain-analysis/blob/main/supply%20chain%20project.pbix)
 
-Presentation Video [Link](supply_chain_video.mp4)
+Presentation Video [Link](https://youtu.be/gP2_4a96Wcw)
 
 Problem statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
